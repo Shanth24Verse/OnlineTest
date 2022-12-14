@@ -1,0 +1,46 @@
+body{
+    background-color: #d1d777 ;
+    background-image: url(../yel.jpg); 
+    font-family: calibri;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: top center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+    color: #1e1c02;
+}
+
+h1{
+    text-align: center;
+}
+
+.qPanel{
+    margin:auto;
+    width:800px;
+    vertical-align: center;
+    margin:0 auto;
+    background-color: #ffd400 ;
+    border: none ;
+    border-radius : 10px ;
+    padding: 200px 45px 0px 50px;
+    height: 50% ;
+    font-size: 15pt;
+}
+.ques{
+    font-size : 18pt;
+    font-weight: bold ;
+}
+.nxtBtn{
+    position: relative ;
+    right : 10px ;
+    float: right;
+    border:none ;
+    font-size: 18pt ;
+    background-color: #1e1c02  ;
+    color: #ffffff ;
+    width: 80px ;
+    height: 35px ;
+}
+
+
